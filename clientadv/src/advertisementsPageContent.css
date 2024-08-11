@@ -1,0 +1,19 @@
+.AdvertisementsPageContent {
+  background-color: chartreuse;
+  display: flex;
+  width: 100%; /* גודל רחב יותר */
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* גובה יותר */
+}
+
+.btnAdvertiseHere {
+  background-color: rgb(78, 134, 21);
+  width: 80%; /* גודל רחב יותר */
+  height: 80px; /* גובה קבוע */
+  font-size: 24px; /* גודל גופן גדול יותר */
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

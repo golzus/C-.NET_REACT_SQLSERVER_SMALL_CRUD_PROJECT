@@ -1,0 +1,48 @@
+body {
+  display: flex;
+  justify-content: center;
+  color: aliceblue;
+  font-size: 100%;
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.formClass {
+  background-color: var(--bgSoft);
+  padding: 50px;
+  border-radius: 10px;
+  width: 40vw;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+input {
+  font-size: 100%;
+  width: 100%;
+  padding: 30px;
+  border: solid 2px #2e374a;
+  border-radius: 5px;
+  background-color: var(--bg);
+  color: var(--text);
+}
+button {
+  width: 100%;
+  padding: 30px;
+  background-color: teal;
+  color: var(--text);
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.chooseAnImage {
+  width: 3vw;
+  height: 5vh;
+  background-color: var(--bg);
+  color: var(--text);
+  font-size: 200%;
+}

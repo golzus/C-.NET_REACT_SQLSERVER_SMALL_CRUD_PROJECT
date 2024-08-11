@@ -1,0 +1,11 @@
+C:\Users\1\Desktop\advProject\DTO_Enteties,Common\bin\Debug\net8.0\DTO_Enteties_Common.deps.json
+C:\Users\1\Desktop\advProject\DTO_Enteties,Common\bin\Debug\net8.0\DTO_Enteties_Common.dll
+C:\Users\1\Desktop\advProject\DTO_Enteties,Common\bin\Debug\net8.0\DTO_Enteties_Common.pdb
+C:\Users\1\Desktop\advProject\DTO_Enteties,Common\obj\Debug\net8.0\DTO_Enteties_Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\advProject\DTO_Enteties,Common\obj\Debug\net8.0\DTO_Enteties_Common.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\advProject\DTO_Enteties,Common\obj\Debug\net8.0\DTO_Enteties_Common.AssemblyInfo.cs
+C:\Users\1\Desktop\advProject\DTO_Enteties,Common\obj\Debug\net8.0\DTO_Enteties_Common.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\advProject\DTO_Enteties,Common\obj\Debug\net8.0\DTO_Enteties_Common.dll
+C:\Users\1\Desktop\advProject\DTO_Enteties,Common\obj\Debug\net8.0\refint\DTO_Enteties_Common.dll
+C:\Users\1\Desktop\advProject\DTO_Enteties,Common\obj\Debug\net8.0\DTO_Enteties_Common.pdb
+C:\Users\1\Desktop\advProject\DTO_Enteties,Common\obj\Debug\net8.0\ref\DTO_Enteties_Common.dll

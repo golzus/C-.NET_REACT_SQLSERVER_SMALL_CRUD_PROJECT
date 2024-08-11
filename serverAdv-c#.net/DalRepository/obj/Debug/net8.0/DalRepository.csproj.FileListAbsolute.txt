@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\advProject\DalRepository\bin\Debug\net8.0\DalRepository.deps.json
+C:\Users\1\Desktop\advProject\DalRepository\bin\Debug\net8.0\DalRepository.runtimeconfig.json
+C:\Users\1\Desktop\advProject\DalRepository\bin\Debug\net8.0\DalRepository.dll
+C:\Users\1\Desktop\advProject\DalRepository\bin\Debug\net8.0\DalRepository.pdb
+C:\Users\1\Desktop\advProject\DalRepository\obj\Debug\net8.0\DalRepository.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\advProject\DalRepository\obj\Debug\net8.0\DalRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\advProject\DalRepository\obj\Debug\net8.0\DalRepository.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\advProject\DalRepository\obj\Debug\net8.0\DalRepository.AssemblyInfo.cs
+C:\Users\1\Desktop\advProject\DalRepository\obj\Debug\net8.0\DalRepository.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\advProject\DalRepository\obj\Debug\net8.0\DalRepository.dll
+C:\Users\1\Desktop\advProject\DalRepository\obj\Debug\net8.0\refint\DalRepository.dll
+C:\Users\1\Desktop\advProject\DalRepository\obj\Debug\net8.0\DalRepository.pdb
+C:\Users\1\Desktop\advProject\DalRepository\obj\Debug\net8.0\DalRepository.genruntimeconfig.cache
+C:\Users\1\Desktop\advProject\DalRepository\obj\Debug\net8.0\ref\DalRepository.dll

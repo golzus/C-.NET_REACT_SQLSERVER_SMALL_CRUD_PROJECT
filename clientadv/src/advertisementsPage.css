@@ -1,0 +1,36 @@
+/* .AdvertisementsContent {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.AdvertisementsContent div {
+  width: 30vw;
+  height: 40vh;
+  margin: 2vw;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+} */.AdvertisementsContent {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 0 -1vw;
+}
+
+.ad-container {
+  width: 40vw;
+  height: 40vh;
+  margin: 1vw;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
