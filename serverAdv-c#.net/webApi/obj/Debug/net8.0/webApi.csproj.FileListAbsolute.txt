@@ -24,7 +24,6 @@ C:\Users\1\Desktop\advProject\webApi\obj\Debug\net8.0\staticwebassets\msbuild.bu
 C:\Users\1\Desktop\advProject\webApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.webApi.props
 C:\Users\1\Desktop\advProject\webApi\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\1\Desktop\advProject\webApi\obj\Debug\net8.0\scopedcss\bundle\webApi.styles.css
-C:\Users\1\Desktop\advProject\webApi\obj\Debug\net8.0\webApi.csproj.CopyComplete
 C:\Users\1\Desktop\advProject\webApi\obj\Debug\net8.0\webApi.dll
 C:\Users\1\Desktop\advProject\webApi\obj\Debug\net8.0\refint\webApi.dll
 C:\Users\1\Desktop\advProject\webApi\obj\Debug\net8.0\webApi.pdb
@@ -74,3 +73,4 @@ C:\Users\1\Desktop\advProject\webApi\bin\Debug\net8.0\DTO_Enteties_Common.dll
 C:\Users\1\Desktop\advProject\webApi\bin\Debug\net8.0\Bll_Services.pdb
 C:\Users\1\Desktop\advProject\webApi\bin\Debug\net8.0\DTO_Enteties_Common.pdb
 C:\Users\1\Desktop\advProject\webApi\bin\Debug\net8.0\DalRepository.pdb
+C:\Users\1\Desktop\advProject\webApi\obj\Debug\net8.0\webApi.csproj.Up2Date

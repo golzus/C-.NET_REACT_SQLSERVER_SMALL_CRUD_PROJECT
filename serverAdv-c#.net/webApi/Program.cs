@@ -36,14 +36,20 @@
 //app.MapControllers();
 
 //app.Run();using Microsoft.AspNetCore.Builder;
+using Bll_Services.Services;
+using Bll_Services.IServices;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using DalRepository.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllers();
-
+builder.Services.AddScoped<AdvertisementByVisitsService, AdvertisementByVisitsService>();
+builder.Services.AddScoped <UserIService, UserService>();
+builder.Services.AddScoped<UserRepository, UserRepository>();
+builder.Services.AddScoped<AdvertisementByVisitsRepository, AdvertisementByVisitsRepository>();
 // הגדרת מדיניות CORS
 builder.Services.AddCors(options =>
 {

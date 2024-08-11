@@ -14,7 +14,12 @@ namespace Bll_Services.Services
 {
     public class AdvertisementByVisitsService : AdvertisementByVisitsIService
     {
-        AdvertisementByVisitsRepository rep = new AdvertisementByVisitsRepository();
+        private AdvertisementByVisitsRepository rep;
+        public AdvertisementByVisitsService(AdvertisementByVisitsRepository rep)
+        {
+            this.rep = rep;
+        }
+        //AdvertisementByVisitsRepository rep = new AdvertisementByVisitsRepository();
         public async Task<bool> AddAsync(AdvertisementByVisitsDTO adv)
         {
          

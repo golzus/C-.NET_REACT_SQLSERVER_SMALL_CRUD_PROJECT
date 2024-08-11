@@ -1,0 +1,476 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Desktop\\advProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15B126E9-32B7-442E-A106-469882056D53}|Bll_Services\\Bll_Services.csproj|c:\\users\\1\\desktop\\advproject\\bll_services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B126E9-32B7-442E-A106-469882056D53}|Bll_Services\\Bll_Services.csproj|solutionrelative:bll_services\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B126E9-32B7-442E-A106-469882056D53}|Bll_Services\\Bll_Services.csproj|c:\\users\\1\\desktop\\advproject\\bll_services\\services\\advertisementbyvisitsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B126E9-32B7-442E-A106-469882056D53}|Bll_Services\\Bll_Services.csproj|solutionrelative:bll_services\\services\\advertisementbyvisitsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE04050-556A-4453-BC5D-4589DA2E83C3}|webApi\\webApi.csproj|c:\\users\\1\\desktop\\advproject\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE04050-556A-4453-BC5D-4589DA2E83C3}|webApi\\webApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE04050-556A-4453-BC5D-4589DA2E83C3}|webApi\\webApi.csproj|c:\\users\\1\\desktop\\advproject\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE04050-556A-4453-BC5D-4589DA2E83C3}|webApi\\webApi.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE04050-556A-4453-BC5D-4589DA2E83C3}|webApi\\webApi.csproj|c:\\users\\1\\desktop\\advproject\\webapi\\controllers\\advertisementbyvisitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE04050-556A-4453-BC5D-4589DA2E83C3}|webApi\\webApi.csproj|solutionrelative:webapi\\controllers\\advertisementbyvisitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|c:\\users\\1\\desktop\\advproject\\dalrepository\\repository\\advertisementbyvisitsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|solutionrelative:dalrepository\\repository\\advertisementbyvisitsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|c:\\users\\1\\desktop\\advproject\\dalrepository\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|solutionrelative:dalrepository\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B126E9-32B7-442E-A106-469882056D53}|Bll_Services\\Bll_Services.csproj|c:\\users\\1\\desktop\\advproject\\bll_services\\iservices\\advertisementbyvisitsiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B126E9-32B7-442E-A106-469882056D53}|Bll_Services\\Bll_Services.csproj|solutionrelative:bll_services\\iservices\\advertisementbyvisitsiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|c:\\users\\1\\desktop\\advproject\\dalrepository\\dalrepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|solutionrelative:dalrepository\\dalrepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A176BC23-6D03-40BD-ABA1-AA3D470FDC59}|DTO_Enteties,Common\\DTO_Enteties_Common.csproj|c:\\users\\1\\desktop\\advproject\\dto_enteties,common\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A176BC23-6D03-40BD-ABA1-AA3D470FDC59}|DTO_Enteties,Common\\DTO_Enteties_Common.csproj|solutionrelative:dto_enteties,common\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B126E9-32B7-442E-A106-469882056D53}|Bll_Services\\Bll_Services.csproj|c:\\users\\1\\desktop\\advproject\\bll_services\\iservices\\useriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15B126E9-32B7-442E-A106-469882056D53}|Bll_Services\\Bll_Services.csproj|solutionrelative:bll_services\\iservices\\useriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|c:\\users\\1\\desktop\\advproject\\dalrepository\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|solutionrelative:dalrepository\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|c:\\users\\1\\desktop\\advproject\\dalrepository\\models\\advcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|solutionrelative:dalrepository\\models\\advcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE04050-556A-4453-BC5D-4589DA2E83C3}|webApi\\webApi.csproj|c:\\users\\1\\desktop\\advproject\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBE04050-556A-4453-BC5D-4589DA2E83C3}|webApi\\webApi.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1\\Desktop\\advProject\\DalRepository\\Migrations\\20240811094203_add-user-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DalRepository\\Migrations\\20240811094203_add-user-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1\\Desktop\\advProject\\DalRepository\\Migrations\\20240810233344_update-users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DalRepository\\Migrations\\20240810233344_update-users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A176BC23-6D03-40BD-ABA1-AA3D470FDC59}|DTO_Enteties,Common\\DTO_Enteties_Common.csproj|c:\\users\\1\\desktop\\advproject\\dto_enteties,common\\dto_enteties_common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A176BC23-6D03-40BD-ABA1-AA3D470FDC59}|DTO_Enteties,Common\\DTO_Enteties_Common.csproj|solutionrelative:dto_enteties,common\\dto_enteties_common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|c:\\users\\1\\desktop\\advproject\\dalrepository\\migrations\\20240808215414_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|solutionrelative:dalrepository\\migrations\\20240808215414_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|c:\\users\\1\\desktop\\advproject\\dalrepository\\models\\baseadvertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|solutionrelative:dalrepository\\models\\baseadvertisement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|c:\\users\\1\\desktop\\advproject\\dalrepository\\models\\advertisementbyvisits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|solutionrelative:dalrepository\\models\\advertisementbyvisits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE04050-556A-4453-BC5D-4589DA2E83C3}|webApi\\webApi.csproj|c:\\users\\1\\desktop\\advproject\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBE04050-556A-4453-BC5D-4589DA2E83C3}|webApi\\webApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE04050-556A-4453-BC5D-4589DA2E83C3}|webApi\\webApi.csproj|c:\\users\\1\\desktop\\advproject\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DBE04050-556A-4453-BC5D-4589DA2E83C3}|webApi\\webApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE04050-556A-4453-BC5D-4589DA2E83C3}|webApi\\webApi.csproj|c:\\users\\1\\desktop\\advproject\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBE04050-556A-4453-BC5D-4589DA2E83C3}|webApi\\webApi.csproj|solutionrelative:webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15B126E9-32B7-442E-A106-469882056D53}|Bll_Services\\Bll_Services.csproj|c:\\users\\1\\desktop\\advproject\\bll_services\\bll_services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15B126E9-32B7-442E-A106-469882056D53}|Bll_Services\\Bll_Services.csproj|solutionrelative:bll_services\\bll_services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A176BC23-6D03-40BD-ABA1-AA3D470FDC59}|DTO_Enteties,Common\\DTO_Enteties_Common.csproj|c:\\users\\1\\desktop\\advproject\\dto_enteties,common\\advertisementbyvisitsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A176BC23-6D03-40BD-ABA1-AA3D470FDC59}|DTO_Enteties,Common\\DTO_Enteties_Common.csproj|solutionrelative:dto_enteties,common\\advertisementbyvisitsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1\\Desktop\\advProject\\webApi\\Controllers\\try.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:webApi\\Controllers\\try.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|c:\\users\\1\\desktop\\advproject\\dalrepository\\migrations\\20240811094244_add-user-table-correct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB02D858-70CD-44C6-9C5C-C39DC4C22A0E}|DalRepository\\DalRepository.csproj|solutionrelative:dalrepository\\migrations\\20240811094244_add-user-table-correct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdvertisementByVisitsService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\Bll_Services\\Services\\AdvertisementByVisitsService.cs",
+              "RelativeDocumentMoniker": "Bll_Services\\Services\\AdvertisementByVisitsService.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\Bll_Services\\Services\\AdvertisementByVisitsService.cs",
+              "RelativeToolTip": "Bll_Services\\Services\\AdvertisementByVisitsService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T08:17:10.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DalRepository\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "DalRepository\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:32:23.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdvertisementByVisitController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\webApi\\Controllers\\AdvertisementByVisitController.cs",
+              "RelativeDocumentMoniker": "webApi\\Controllers\\AdvertisementByVisitController.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\webApi\\Controllers\\AdvertisementByVisitController.cs",
+              "RelativeToolTip": "webApi\\Controllers\\AdvertisementByVisitController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:34:21.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\webApi\\Program.cs",
+              "RelativeDocumentMoniker": "webApi\\Program.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\webApi\\Program.cs",
+              "RelativeToolTip": "webApi\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAADIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T11:16:34.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\Bll_Services\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Bll_Services\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\Bll_Services\\Services\\UserService.cs",
+              "RelativeToolTip": "Bll_Services\\Services\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T23:05:16.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\webApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "webApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\webApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "webApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T10:27:58.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdvertisementByVisitsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\Repository\\AdvertisementByVisitsRepository.cs",
+              "RelativeDocumentMoniker": "DalRepository\\Repository\\AdvertisementByVisitsRepository.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\Repository\\AdvertisementByVisitsRepository.cs",
+              "RelativeToolTip": "DalRepository\\Repository\\AdvertisementByVisitsRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T22:06:57.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdvertisementByVisitsIService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\Bll_Services\\IServices\\AdvertisementByVisitsIService.cs",
+              "RelativeDocumentMoniker": "Bll_Services\\IServices\\AdvertisementByVisitsIService.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\Bll_Services\\IServices\\AdvertisementByVisitsIService.cs",
+              "RelativeToolTip": "Bll_Services\\IServices\\AdvertisementByVisitsIService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T18:43:11.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserIService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\Bll_Services\\IServices\\UserIService.cs",
+              "RelativeDocumentMoniker": "Bll_Services\\IServices\\UserIService.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\Bll_Services\\IServices\\UserIService.cs",
+              "RelativeToolTip": "Bll_Services\\IServices\\UserIService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:57:14.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\DTO_Enteties,Common\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO_Enteties,Common\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\DTO_Enteties,Common\\UserDTO.cs",
+              "RelativeToolTip": "DTO_Enteties,Common\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T22:54:20.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DalRepository.csproj",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\DalRepository.csproj",
+              "RelativeDocumentMoniker": "DalRepository\\DalRepository.csproj",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\DalRepository.csproj",
+              "RelativeToolTip": "DalRepository\\DalRepository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T08:13:05.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdvertisementByVisitsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\DTO_Enteties,Common\\AdvertisementByVisitsDTO.cs",
+              "RelativeDocumentMoniker": "DTO_Enteties,Common\\AdvertisementByVisitsDTO.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\DTO_Enteties,Common\\AdvertisementByVisitsDTO.cs",
+              "RelativeToolTip": "DTO_Enteties,Common\\AdvertisementByVisitsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:55:01.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdvContext.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\models\\AdvContext.cs",
+              "RelativeDocumentMoniker": "DalRepository\\models\\AdvContext.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\models\\AdvContext.cs",
+              "RelativeToolTip": "DalRepository\\models\\AdvContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T21:41:20.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\models\\User.cs",
+              "RelativeDocumentMoniker": "DalRepository\\models\\User.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\models\\User.cs",
+              "RelativeToolTip": "DalRepository\\models\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T21:46:26.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "try.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\webApi\\Controllers\\try.cs",
+              "RelativeDocumentMoniker": "webApi\\Controllers\\try.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\webApi\\Controllers\\try.cs",
+              "RelativeToolTip": "webApi\\Controllers\\try.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:55:01.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\webApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "webApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\webApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "webApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-11T11:13:40.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240811094244_add-user-table-correct.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\Migrations\\20240811094244_add-user-table-correct.cs",
+              "RelativeDocumentMoniker": "DalRepository\\Migrations\\20240811094244_add-user-table-correct.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\Migrations\\20240811094244_add-user-table-correct.cs",
+              "RelativeToolTip": "DalRepository\\Migrations\\20240811094244_add-user-table-correct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T21:55:01.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240811094203_add-user-table.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\Migrations\\20240811094203_add-user-table.cs",
+              "RelativeDocumentMoniker": "DalRepository\\Migrations\\20240811094203_add-user-table.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\Migrations\\20240811094203_add-user-table.cs",
+              "RelativeToolTip": "DalRepository\\Migrations\\20240811094203_add-user-table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T09:42:03.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240810233344_update-users.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\Migrations\\20240810233344_update-users.cs",
+              "RelativeDocumentMoniker": "DalRepository\\Migrations\\20240810233344_update-users.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\Migrations\\20240810233344_update-users.cs",
+              "RelativeToolTip": "DalRepository\\Migrations\\20240810233344_update-users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T23:33:44.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DTO_Enteties_Common.csproj",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\DTO_Enteties,Common\\DTO_Enteties_Common.csproj",
+              "RelativeDocumentMoniker": "DTO_Enteties,Common\\DTO_Enteties_Common.csproj",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\DTO_Enteties,Common\\DTO_Enteties_Common.csproj",
+              "RelativeToolTip": "DTO_Enteties,Common\\DTO_Enteties_Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-10T22:51:16.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BaseAdvertisement.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\models\\BaseAdvertisement.cs",
+              "RelativeDocumentMoniker": "DalRepository\\models\\BaseAdvertisement.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\models\\BaseAdvertisement.cs",
+              "RelativeToolTip": "DalRepository\\models\\BaseAdvertisement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:23:15.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240808215414_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\Migrations\\20240808215414_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DalRepository\\Migrations\\20240808215414_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\Migrations\\20240808215414_InitialCreate.cs",
+              "RelativeToolTip": "DalRepository\\Migrations\\20240808215414_InitialCreate.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T21:54:14.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdvertisementByVisits.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\models\\AdvertisementByVisits.cs",
+              "RelativeDocumentMoniker": "DalRepository\\models\\AdvertisementByVisits.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\DalRepository\\models\\AdvertisementByVisits.cs",
+              "RelativeToolTip": "DalRepository\\models\\AdvertisementByVisits.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T21:32:54.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "webApi.csproj",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\webApi\\webApi.csproj",
+              "RelativeDocumentMoniker": "webApi\\webApi.csproj",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\webApi\\webApi.csproj",
+              "RelativeToolTip": "webApi\\webApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-10T20:51:39.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\webApi\\appsettings.json",
+              "RelativeDocumentMoniker": "webApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\webApi\\appsettings.json",
+              "RelativeToolTip": "webApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-09T11:38:44.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\webApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "webApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\webApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "webApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T11:33:22.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Bll_Services.csproj",
+              "DocumentMoniker": "C:\\Users\\1\\Desktop\\advProject\\Bll_Services\\Bll_Services.csproj",
+              "RelativeDocumentMoniker": "Bll_Services\\Bll_Services.csproj",
+              "ToolTip": "C:\\Users\\1\\Desktop\\advProject\\Bll_Services\\Bll_Services.csproj",
+              "RelativeToolTip": "Bll_Services\\Bll_Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-09T10:12:58.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAFoUAAAAAAAAAAAvwE0JAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-09T10:14:02.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

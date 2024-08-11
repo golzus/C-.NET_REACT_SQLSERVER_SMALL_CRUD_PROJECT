@@ -12,7 +12,14 @@ namespace webApi.Controllers
     [Route("users")]
     public class UserController : Controller
     {
-        private UserIService ser = new UserService();
+        //private UserIService ser = new UserService();
+
+        private UserIService ser;
+
+        public UserController(UserIService service)
+        {
+            ser = service;
+        }
 
         [HttpPost("add")]
         public Task<bool> Add([FromBody] UserDTO user)

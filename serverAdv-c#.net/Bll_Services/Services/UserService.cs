@@ -12,8 +12,12 @@ namespace Bll_Services.Services
 {
     public class UserService : UserIService
     {
+        private UserRepository rep;
         //Task<List<UserDTO>> GetUsersAsync();
-        UserRepository rep=new UserRepository();
+        //UserRepository rep=new UserRepository();
+        public UserService(UserRepository rep) {
+            this.rep = rep;
+        }
         public async Task<bool> addAsync(UserDTO user)
         {
        
