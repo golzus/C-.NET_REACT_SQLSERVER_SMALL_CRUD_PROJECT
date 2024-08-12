@@ -150,7 +150,7 @@ const AdvertisementsPage = () => {
   useEffect(() => {
     fetchAdvertisements();
   }, []);
-
+  console.log(advertisements, "Advertisements Data");
   useEffect(() => {
     const newArray = [...imagePathArr];
     advertisements.forEach((adv) => {

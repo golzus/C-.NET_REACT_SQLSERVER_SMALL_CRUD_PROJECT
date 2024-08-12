@@ -74,3 +74,5 @@ C:\Users\1\Desktop\advProject\webApi\bin\Debug\net8.0\Bll_Services.pdb
 C:\Users\1\Desktop\advProject\webApi\bin\Debug\net8.0\DTO_Enteties_Common.pdb
 C:\Users\1\Desktop\advProject\webApi\bin\Debug\net8.0\DalRepository.pdb
 C:\Users\1\Desktop\advProject\webApi\obj\Debug\net8.0\webApi.csproj.Up2Date
+C:\Users\1\Desktop\advProject\webApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\1\Desktop\advProject\webApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Bll_Services",
-    "\\Bll_Services\\IServices",
     "\\Bll_Services\\Services"
   ],
-  "SelectedNode": "\\webApi",
+  "SelectedNode": "\\Bll_Services",
   "PreviewInSolutionExplorer": false
 }

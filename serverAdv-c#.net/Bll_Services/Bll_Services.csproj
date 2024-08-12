@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\DalRepository\DalRepository.csproj" />
     <ProjectReference Include="..\DTO_Enteties,Common\DTO_Enteties_Common.csproj" />
   </ItemGroup>

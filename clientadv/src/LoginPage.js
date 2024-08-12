@@ -111,6 +111,8 @@ const LoginPage = () => {
           setsystemMessage("המשתמש רשום");
           navigate("/dash/orders");
         }
+        else if(response.data===false)
+        setsystemMessage("המשתמש לא רשום");
       } catch (error) {
         setsystemMessage("המשתמש לא רשום");
       }
@@ -123,9 +125,11 @@ const LoginPage = () => {
           password,
         });
         // ניתן לטפל בתשובה מהשרת כאן, למשל:
-        if (response.status === 200) {
-          setsystemMessage(response.data);
+        if (response.data === true) {
+          setsystemMessage("נרשמת בהצלחה");
         }
+        if(response.data===false)
+        setsystemMessage("didnt succedd");
       } catch (error) {
         setsystemMessage(error.response.data);
       }

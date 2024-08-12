@@ -34,11 +34,11 @@ namespace webApi.Controllers
 
 
 
-        [HttpGet("")]
-        public async Task<IActionResult> GetAll()
-        {
-            var result = ser.GetUsersAsync();
-            return Ok(result);
-        }
+        //[HttpGet("")]
+        //public async Task<IActionResult> GetAll()
+        //{
+        //    var result = ser.GetUsersAsync();
+        //    return Ok(result);
+        //}
     }
 }

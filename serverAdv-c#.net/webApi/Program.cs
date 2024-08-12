@@ -37,6 +37,7 @@
 
 //app.Run();using Microsoft.AspNetCore.Builder;
 using Bll_Services.Services;
+using Bll_Services.Mapping;
 using Bll_Services.IServices;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -50,6 +51,8 @@ builder.Services.AddScoped<AdvertisementByVisitsService, AdvertisementByVisitsSe
 builder.Services.AddScoped <UserIService, UserService>();
 builder.Services.AddScoped<UserRepository, UserRepository>();
 builder.Services.AddScoped<AdvertisementByVisitsRepository, AdvertisementByVisitsRepository>();
+builder.Services.AddAutoMapper(typeof(MyMapper));
+
 // הגדרת מדיניות CORS
 builder.Services.AddCors(options =>
 {

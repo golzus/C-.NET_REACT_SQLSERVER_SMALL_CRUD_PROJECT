@@ -13,8 +13,8 @@ namespace Bll_Services.IServices
         Task <List<UserDTO>> GetUsersAsync();
         Task <bool> getUserByIdAsync(UserDTO user);
         Task<bool> addAsync(UserDTO user);
-        UserDTO ConvertToDTO(User user);
-        User ConvertToDALL(UserDTO user);
+        //UserDTO ConvertToDTO(User user);
+        //User ConvertToDALL(UserDTO user);
        
     }
 }

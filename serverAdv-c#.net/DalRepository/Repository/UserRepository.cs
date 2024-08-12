@@ -26,7 +26,7 @@ namespace DalRepository.Repository
             }
         }
 
-        public async Task add(User user)
+        public async Task<bool> add(User user)
         {
             try
             {
@@ -34,7 +34,8 @@ namespace DalRepository.Repository
                 {
 
                     db.Users.AddAsync(user);
-                    await db.SaveChangesAsync();
+                    var changes = await db.SaveChangesAsync();
+                    return changes > 0;
                 }
             }
             catch (Exception e)
@@ -54,8 +55,8 @@ namespace DalRepository.Repository
             {
                 using (AdvContext db = new AdvContext())
                 {
-                    await db.Users.FindAsync(email);
-                    return true;
+                  User user=  await db.Users.FindAsync(email);
+                    return user==null?false:true;
                 }
             }
             catch (Exception e)
